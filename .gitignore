@@ -1,0 +1,53 @@
+
+##################
+# Altium Designer
+##################
+
+#folder
+[Ll]ogs/
+[Oo]utputs/
+Project Logs for*
+Project Outputs for*
+__Previews/
+[Tt]emp/
+[Tt]est/
+
+#files
+*.SchDocPreview
+*.PcbDocPreview
+*.Dat
+*.REP
+*.TLT
+*.LOG
+*.log
+*.htm
+*.$$$
+
+
+#############
+## Windows detritus
+#############
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Executables
+*.exe
+
+#files
+*.bak
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Office Temp
+~$*.*
