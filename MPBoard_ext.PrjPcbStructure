@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=MPBoard_L1_PWR_ext.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=MPBoard_L1_PWR_ext.SchDoc|FileName=MPBoard_L2_Relay1_ext.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MPBoard_L1_PWR_ext.SchDoc|FileName=MPBoard_L3_Relay2_ext.SchDoc|SheetNumber=3

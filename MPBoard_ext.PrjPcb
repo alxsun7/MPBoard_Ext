@@ -84,7 +84,7 @@ DocumentUniqueId=VPQTSMAC
 
 [Document3]
 DocumentPath=MPBoard_L1_PWR_ext.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -101,7 +101,7 @@ DocumentUniqueId=OIQWJWRF
 
 [Document4]
 DocumentPath=MPBoard_L2_Relay1_ext.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
