@@ -151,7 +151,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MKAPBQSH
 
 [Document7]
-DocumentPath=MPBoard_L5_Sens1_2_ext.SchDoc
+DocumentPath=MPBoard_L5_Sens_2_ext.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
