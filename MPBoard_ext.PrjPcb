@@ -109,7 +109,7 @@ AnnotateScope=All
 AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -126,7 +126,7 @@ AnnotateScope=All
 AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -143,7 +143,7 @@ AnnotateScope=All
 AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -160,12 +160,29 @@ AnnotateScope=All
 AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEYSYGMF
+
+[Document8]
+DocumentPath=MPBoard_ext.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RXXCTVOM
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MPBoard_ext\MPBoard_ext.xlsx
@@ -329,7 +346,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\makarov\HP LaserJet Professional P1566
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -568,6 +585,11 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+OutputType9=GOSTBOM
+OutputName9=GOST BOM
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1104,7 +1126,6 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
-MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
@@ -1234,12 +1255,12 @@ Net1=NetName=+24V|NetColor=$007B0030
 Net2=NetName=+3.3V|NetColor=$001AC5FF
 Net3=NetName=+5V|NetColor=$00FF0099
 Net4=NetName=+5V_Out|NetColor=$00CA9C00
-Net5=NetName=ETH_VCC|NetColor=$006A00A1
-Net6=NetName=GND|NetColor=$006EA300
-Net7=NetName=izGND|NetColor=$000083FD
-Net8=NetName=NetC49_1|NetColor=$00007756
-Net9=NetName=NetC51_1|NetColor=$00007756
-Net10=NetName=NetVT50_2|NetColor=$00CA9C00
+Net5=NetName=cPNP|NetColor=$0000DEB0
+Net6=NetName=ETH_VCC|NetColor=$006A00A1
+Net7=NetName=GND|NetColor=$006EA300
+Net8=NetName=izGND|NetColor=$000083FD
+Net9=NetName=NetC49_1|NetColor=$00007756
+Net10=NetName=NetC51_1|NetColor=$00007756
 Net11=NetName=Vcc1|NetColor=$0032C2F1
 
 [Comparison Options]
