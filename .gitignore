@@ -11,6 +11,7 @@ Project Outputs for*
 __Previews/
 [Tt]emp/
 [Tt]est/
+[Hh]istory/
 
 #files
 *.SchDocPreview
@@ -45,7 +46,6 @@ $RECYCLE.BIN/
 *.bak
 
 # Archives
-*.zip
 *.rar
 *.7z
 
