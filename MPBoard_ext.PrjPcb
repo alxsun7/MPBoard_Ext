@@ -184,14 +184,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXXCTVOM
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for MPBoard_ext\MPBoard_ext.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for MPBoard_ext\MPBoard_ext_for_soldering.xls
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
